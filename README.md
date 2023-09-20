@@ -11,7 +11,7 @@ Tools: Test Rail, Jira, Charles, Postman,DevTools, Dbeaver
 📍 Experience in testing
   uTest:
 - Conducted Exploratory testing of websites such as PUMA, Timex, Tuftandneedle 
-- Conducted Exploratory testing of mobile applications such as AirFrance , Wyndham 
+- Conducted Exploratory testing of mobile applications such as AirFrance , Wyndham ,
 GoIT School: LMS System 
 - System testing ,using a requirements-based approach , creating test cases and bug reports
 
