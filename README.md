@@ -5,7 +5,8 @@ My goal is to get a job where I can use my skills and knowledge to achieve good 
 
 📍Tech Skills
 Knowledge of : 
-QA theory, Test documentation , test design techniques Understanding of client-server architecture, HTTP, JSON, API Scrum methodology 
+QA theory, Test documentation , test design techniques . 
+Understanding of client-server architecture, HTTP/HTTPS, JSON,  REST API, Scrum
 Basic knowledge of database queries 
 Tools: Test Rail, Jira, Charles, Postman,DevTools, Dbeaver
 📍 Experience in testing
