@@ -15,13 +15,5 @@ Tools: Test Rail, Jira, Charles, Postman,DevTools, Dbeaver
 GoIT School: LMS System 
 - System testing ,using a requirements-based approach , creating test cases and bug reports
 
-📍Professional Experience
- IT Company "S-PRO"
-Office manager/2020-2023
-
-
-📍 Education
-GoIT Sсhool 
-maj 2023 - septembre 2023
 
 
